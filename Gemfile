@@ -25,6 +25,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.2'
 gem 'activeadmin', github: 'activeadmin'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
+gem 'active_skin'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
